@@ -16,6 +16,8 @@ Reference: https://qiita.com/narikei/items/847613a8f01a9e1527d7
 
 ## Bluetooth setup
 
+See 02_BT_Hello_World.
+
 ### Reference pages
 
 http://www.instructables.com/id/Add-bluetooth-to-your-Arduino-project-ArduinoHC-06/
