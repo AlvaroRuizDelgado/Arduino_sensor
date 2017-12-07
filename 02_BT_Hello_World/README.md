@@ -16,5 +16,5 @@ echo -n -e "hello bluetooth" > /dev/tty.HC-06-DevB
 You can see the process in the video below, which was pretty helpful to get this going.
 https://www.youtube.com/watch?v=0TzYDOIaDYA
 
-This other video is very edifying about how to interact with the bluetooth module.
-https://www.youtube.com/watch?v=ZdvKh3c_yoQ
+This page is very edifying about how to interact with the bluetooth module.
+http://forcetronic.blogspot.jp/2014/08/getting-started-with-hc-06-bluetooth.html
