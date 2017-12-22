@@ -5,7 +5,7 @@ void setup()
   pinMode(LED_BUILTIN, OUTPUT);
   Serial.begin(9600); //set baud rate
 
-  Serial.println("AT+NAMESensorDeDilatacion"); // set bluetooth name
+  Serial.println("AT+NAMESensorLaser"); // set bluetooth name
   delay(600);
   // char responseMessage[10];  // 'OKsetname\n'
   // int8_t responseCount = 0;

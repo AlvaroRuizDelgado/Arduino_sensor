@@ -3,7 +3,6 @@
 
 time_t t;
 time_t t_change;
-time_t t_delta;
 
 String message; //string that stores the incoming message
 
@@ -18,7 +17,7 @@ void setup()
   t_change = now();
   t_delta = t - t_change;
 
-  Serial.println("AT+NAMESensorDeDilatacion"); // set bluetooth name
+  Serial.println("AT+NAMESensorLaser"); // set bluetooth name
   delay(600);
   // int8_t lengthOfResponse = 10;  // 'OKsetname\n'
   // char responseMessage[lengthOfResponse];
